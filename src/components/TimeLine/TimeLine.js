@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+I am Muhammad Zain, a dedicated and passionate Software Engineering student at NU-FAST, with a strong foundation in programming languages such as C, C++, Java, Python, HTML, CSS, and JavaScript. I have hands-on experience in web development, having built several projects that showcase my skills in both front-end and back-end technologies. My enthusiasm for learning drives me to continuously explore new technologies and frameworks, enabling me to stay updated with industry trends. I am eager to contribute my skills and knowledge to real-world projects, collaborate with like-minded professionals, and further develop my expertise in the field of Software Engineering.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
